@@ -14,6 +14,6 @@ Here are my latest updates.
 
 {{ post.date | date: "%B %d, %Y" }}
 
-{{ post.excerpt }}
+{{ post.excerpt | strip_html | truncatewords: 30 }}
 
 {% endfor %}
