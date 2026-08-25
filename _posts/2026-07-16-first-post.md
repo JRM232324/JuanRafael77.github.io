@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "My First Post"
 date: 2026-07-16 12:00:00 -0000
 categories: updates
 ---
