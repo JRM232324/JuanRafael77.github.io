@@ -7,6 +7,6 @@ categories: updates
 
 # Second Post 
 
-This is another update on my blog, moreso focusing on the portfolio and its progress. 
+This is another update on my blog, more-so focusing on the portfolio and its progress. 
 
 I'm currently focusing on sending out my application to as many employers, so the progress on new projects has been slow. I also want to rework this site's setup as a whole so I can display the information on it in a more dynamic manner.
