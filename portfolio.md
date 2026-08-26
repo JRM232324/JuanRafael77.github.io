@@ -14,6 +14,12 @@ A collection of my projects, experiments, and development work.
 
 ### Wazuh SIEM & Endpoint Monitoring Homelab
 
+A self-hosted Wazuh SIEM environment deployed using Docker on Ubuntu Server. The project involved configuring a Wazuh Manager, Indexer and Dashboard, deploying an endpoint agent, monitoring security events and testing File Integrity Monitoring.
+
+Skills: SIEM, Wazuh, Docker, Linux, Security Monitoring, FIM, Troubleshooting
+
+[View Wazuh Project →]({{ "/projects/wazuh/" | relative_url }})
+
 I built and configured a self-hosting Wazuh monitoring environment to gain practical experience with tools used for Security Information and Event Management (SIEM), endpoint monitoring, the collection of logs and additional monitoring such as File Integrity Monitoring (FIM).
 
 Overall, the project consisted of installing and deploying Wazuh through Docker onto a virtual machine hosted by Virtualbox, the virtual machine ran on Ubuntu Server version 24.04 LTS. After troubleshooting connectivity issues and a deployment onto a virtual machine without enough storage, I was able to simulate a small scale security monitoring environment, similar to what might be found within a SOC.
@@ -89,6 +95,12 @@ In conclusion, the project gave me a clearer understanding of many things regard
 ---
 
 ### Enterprise Ubuntu Home Lab
+
+A virtualised Ubuntu Server environment designed to simulate a small business infrastructure. The project includes Docker, Nginx, Grafana, Prometheus, Portainer, UFW and Fail2Ban.
+
+Skills: Linux Administration, Virtualisation, Docker, Networking, Monitoring, Security Hardening
+
+[View Enterprise Home Lab →]({{ "/projects/enterprise-homelab/" | relative_url }})
 
 The Enterprise Ubuntu Home Lab is a virtualised server that I have built through the use of Ubuntu Server 24.04 LTS within Oracle Virtualbox, this server was created to simulate the deployment and management of small business infrastructure as well as develop practical Linux skills such as system administration, networking, containerisation and automation skills inside of a realistic environment.
 
