@@ -1,9 +1,8 @@
 ---
-
 layout: default
 title: "Cybersecurity & Human Factors Research"
 permalink: /projects/dissertation/
---------------------------
+---
 
 # Cybersecurity & Emotional Response Research
 
