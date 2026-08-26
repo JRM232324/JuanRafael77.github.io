@@ -186,4 +186,6 @@ Additionally the project also developed my ability to design and manage an indep
 
 Overall, the project strengthened my understanding of the human factors surrounding cybersecurity while developing transferable skills in research, statistical analysis, qualitative analysis, project management and security analysis.
 
+<a href="/assets/documents/FYPProject.pdf">View my full FYP Project</a>
+
 ---
