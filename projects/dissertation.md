@@ -116,9 +116,9 @@ The project required participants to be informed about how their responses would
 
 ## Project Management
 
-The project was managed using the **MoSCoW prioritisation framework**, allowing requirements to be separated into Must Have, Should Have, Could Have and Won't Have categories.
+The project was managed via the use of the MoSCoW prioritisation framework, which allowed me to set objectives and  separate them into Must Have, Should Have, Could Have and Won't Have categories.
 
-The scope of the project changed considerably as the research progressed. Rather than continuing with an overly broad cybersecurity topic, I refined the research question to create a more focused and achievable study.
+Overall it helped manage the project as it developed, the ease of setting new objectives with this planning framework allowed me to refine my goals to create a more focused and achievable study.
 
 This required adapting the research methodology and analysis process when challenges arose. For example, the original plan involved using NVivo for qualitative analysis, but software issues resulted in ATLAS.ti being adopted instead.
 
@@ -126,9 +126,9 @@ This required adapting the research methodology and analysis process when challe
 
 ## Limitations
 
-The project had several limitations.
+The project found itself with several limitations.
 
-The final questionnaire received **40 responses**, which provided usable data but limited the statistical generalisability of the findings. Additionally, the research relied on self-reported responses, meaning participants' answers could be influenced by individual interpretation or recall bias.
+Overall, the questionnaire received 40 responses, which provided usable data but limited the statistical generalisability of the findings. Additionally, the research relied on self-reported responses, participants' answers could be influenced by individual interpretation or recall bias.
 
 These limitations were considered when interpreting the findings rather than treating the results as universally representative.
 
@@ -178,12 +178,12 @@ These limitations were considered when interpreting the findings rather than tre
 
 ## Conclusion
 
-This project allowed me to investigate cybersecurity from a **human-centred perspective**, complementing the technical experience demonstrated by my Wazuh SIEM and Enterprise Ubuntu Home Lab projects.
+This project allowed me to investigate cybersecurity from a perspective that focused on human emotional responses, complementing the technical experience that was taught to me throughout my university courses.
 
-The research demonstrated that cybersecurity incidents can have consequences extending beyond technical compromise, influencing emotions, perceptions, behaviour and cybersecurity awareness.
+Research demonstrated that cybersecurity incidents can have consequences extending beyond technical compromise, these range from: influencing emotions, perceptions, behaviour and heightened cybersecurity awareness.
 
-The project also developed my ability to design and manage an independent research project, collect and analyse primary data, adapt methodology when challenges occurred, and communicate findings using evidence-based analysis.
+Additionally the project also developed my ability to design and manage an independent research project, collect and analyse primary data, adapt methodology when challenges occurred, and communicate findings using evidence-based analysis.
 
-Overall, the project strengthened my understanding of the **human factors surrounding cybersecurity** while developing transferable skills in research, statistical analysis, qualitative analysis, project management and security analysis.
+Overall, the project strengthened my understanding of the human factors surrounding cybersecurity while developing transferable skills in research, statistical analysis, qualitative analysis, project management and security analysis.
 
 ---
