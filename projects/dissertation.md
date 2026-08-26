@@ -2,7 +2,7 @@
 
 layout: default
 title: "Cybersecurity & Human Factors Research"
-permalink: /portfolio/fyp/
+permalink: /projects/dissertation/
 --------------------------
 
 # Cybersecurity & Emotional Response Research
