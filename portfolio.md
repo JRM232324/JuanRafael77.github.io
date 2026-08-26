@@ -12,6 +12,13 @@ A collection of my projects, experiments, and development work.
 
 ## Projects
 
+### Cybersecurity & Emotional Response Research
+
+Final Year Project / Dissertation investigating how personality traits influence
+individual emotional responses to cybersecurity incidents.
+
+[View Dissertation →]({{ "/projects/dissertation/" | relative_url }})
+
 ### Wazuh SIEM & Endpoint Monitoring Homelab
 
 A self-hosted Wazuh SIEM environment deployed using Docker on Ubuntu Server. The project involved configuring a Wazuh Manager, Indexer and Dashboard, deploying an endpoint agent, monitoring security events and testing File Integrity Monitoring.
