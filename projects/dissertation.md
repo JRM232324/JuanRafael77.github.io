@@ -8,11 +8,11 @@ permalink: /projects/dissertation/
 
 ## Final Year Project — Cybersecurity and Forensic Computing
 
-My Final Year Project investigated the relationship between **cybersecurity incidents, personality traits, and the emotional response of individuals following a cyber attack**.
+My Final Year Project investigated the relationship between **cybersecurity incidents, the personality traits of an individual, and how their emotional response varies following a cyber attack**.
 
-The project originally began with a broader focus on cyber threats, the Deep and Dark Web, and the impact of attacks on businesses. As the research developed, I refined the scope to focus specifically on the **human factors of cybersecurity**, examining how individuals with different personality characteristics respond emotionally to cyber incidents.
+The project originally began following a broader focus on cyber threats, including topics such as the Deep and Dark Web and how the cyber attacks impacted businesses. However, as I went through the research phase, I refined the scope to focus specifically on the emotional factors of cybersecurity, examining how individuals with different personality characteristics respond emotionally to cyber incidents.
 
-The project combined academic research with primary data collection and statistical and qualitative analysis. This allowed me to investigate cybersecurity from a perspective beyond purely technical controls, considering how human behaviour and psychological responses can influence the impact of security incidents.
+The project combined academic research with primary data collection and statistical and qualitative analysis. Allowing me to investigate cybersecurity from a perspective beyond purely technical controls, considering how human behaviour and psychological responses can influence the impact of security incidents.
 
 ---
 
@@ -33,15 +33,15 @@ The final objectives of the project were to:
 
 ## Research Methodology
 
-The project used a **mixed-methods research approach**, combining quantitative and qualitative data.
+The project used a mixed-methods research approach where it combined both quantitative and qualitative data.
 
-A questionnaire was developed to collect responses from participants regarding their experiences and perceptions of cyber incidents. The research incorporated the **Impact of Event Scale–Revised (IES-R)** alongside personality measures to investigate emotional responses to cyber incidents.
+A questionnaire was developed to collect responses from participants regarding their experiences and perceptions of cyber incidents. The research incorporated the Impact of Event Scale–Revised (IES-R) alongside the Big Five personality traits to investigate emotional responses to cyber incidents.
 
 Quantitative data was analysed to identify statistical relationships and patterns within participant responses, while qualitative responses were analysed thematically to identify recurring experiences and behaviours.
 
 The project therefore required me to work across several stages:
 
-**Research → Questionnaire Design → Ethical Data Collection → Data Processing → Statistical Analysis → Qualitative Analysis → Interpretation → Conclusions**
+Research → Questionnaire Design → Ethical Data Collection → Data Processing → Statistical Analysis → Qualitative Analysis → Interpretation → Conclusions
 
 ---
 
@@ -49,12 +49,12 @@ The project therefore required me to work across several stages:
 
 The quantitative analysis identified two prominent dimensions within participants' responses:
 
-* **Emotional Impact**
-* **Perceived Control**
+* Emotional Impact
+* Perceived Control
 
-The research also identified patterns suggesting that personality characteristics, particularly **Conscientiousness and Imaginative tendencies**, were associated with variations in emotional impact and perceived control.
+The research also identified patterns suggesting that personality characteristics, particularly Conscientiousness and Imaginative tendencies, were associated with variations in emotional impact and perceived control.
 
-Qualitative responses provided additional context to the statistical findings. Participants frequently described emotions such as distress, frustration and distrust following cyber incidents, while many also reported increased cybersecurity awareness and changes in their behaviour afterwards.
+Qualitative responses provided further context to the statistical findings. Participants frequently described emotions such as distress or frustration following cyber incidents, where following this many respondents also reported increased cybersecurity awareness and changes in their behaviour afterwards.
 
 ---
 
