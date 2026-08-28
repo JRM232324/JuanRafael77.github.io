@@ -6,10 +6,10 @@ permalink: /projects/vulnanalysis/
 
 ### Vulnerability Discovery & Exploitation – C Programming
 
-A cybersecurity coursework project focused on identifying, analysing and demonstrating vulnerabilities within C programs. The project involved examining vulnerable source code, understanding how insecure memory management and input handling could be exploited, and using debugging and analysis techniques to demonstrate the impact of each vulnerability.
+The project presented here was a part of a Cybersecurity coursework that I did for a university course. The focus of it was to identify the vulnerabilities within C programs that we were given, then to analyse and exploit these vulnerabilities to demonstrate how an attacker may do so. Overall, it helped me understand how vulnerable insecure memory management or poor input handling can be exploited to varying impact.
 
-The assessment investigated vulnerabilities across two C programs, including heap and stack buffer overflows, format string vulnerabilities, command injection, unsafe memory allocation and failures in memory deallocation.
-The project also involved using GDB to investigate program behaviour and demonstrate how vulnerabilities could affect memory, including examining stack values, pointers and vulnerable functions.
+Overall, this project focused on two C programs which included heap and stack buffer overflows, format string vulnerabilities, command injection, unsafe memory allocation and unsuccessful memory deallocation. GDB decompiler was used to investigate the program and analyse these vulnerabilities and how they affected memory, stack values and pointers or vulnerable functions.
+
 **Vulnerabilities Analysed:**
 
 * Heap Buffer Overflow
