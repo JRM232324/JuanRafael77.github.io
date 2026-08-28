@@ -36,7 +36,7 @@ The project also involved using GDB to investigate program behaviour and demonst
 * Exploitation Fundamentals
 * Denial-of-Service Analysis
 
-[View Vulnerability Analysis Project →]({{ "/assets/vulnanalysis/" | relative_url }})
+[View Vulnerability Analysis Project →]({{ "/assets/documents/vulnanalysis/" | relative_url }})
 
 
 ---
