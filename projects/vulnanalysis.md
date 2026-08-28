@@ -37,7 +37,7 @@ Overall, this project focused on two C programs which included heap and stack bu
 * Denial-of-Service Analysis
 
 <a href="{{ '/assets/documents/vulnanalysis.pdf' | relative_url }}">
-    View the full VDE Project:
+    View the full VDE Project
 </a>
 
 ---
