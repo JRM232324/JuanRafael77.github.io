@@ -19,6 +19,12 @@ individual emotional responses to cybersecurity incidents.
 
 [View Dissertation →]({{ "/projects/dissertation/" | relative_url }})
 
+### Vulnerability Discovery & Exploitation – C Programming
+
+Project focused on analysing C Files, discovering vulnerabilities and showcasing exploits to those vulnerabilities.
+
+[View VDE Project →]({{ "/projects/vulnanalysis/" | relative_url }})
+
 ### Wazuh SIEM & Endpoint Monitoring Homelab
 
 A self-hosted Wazuh SIEM environment deployed using Docker on Ubuntu Server. The project involved configuring a Wazuh Manager, Indexer and Dashboard, deploying an endpoint agent, monitoring security events and testing File Integrity Monitoring.
