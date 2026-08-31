@@ -8,7 +8,7 @@ permalink: /projects/dissertation/
 
 <h1>Cybersecurity &amp; Emotional Response Research</h1>
 
-<p class="project-intro"> My Final Year Project investigated the relationship between <strong>cybersecurity incidents, the personality traits of an individual, and how their emotional response varies following a cyber attack</strong>. </p>
+<p> My Final Year Project investigated the relationship between <strong>cybersecurity incidents, the personality traits of an individual, and how their emotional response varies following a cyber attack</strong>. </p>
 
 <p> The project originally began following a broader focus on cyber threats, including topics such as the Deep and Dark Web and how the cyber attacks impacted businesses. However, as I went through the research phase, I refined the scope to focus specifically on the emotional factors of cybersecurity, examining how individuals with different personality characteristics respond emotionally to cyber incidents. </p>
 
