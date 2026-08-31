@@ -8,10 +8,6 @@ permalink: /blog/
 
 <h1>Blog</h1>
 
-<p>
-  Here are my latest updates.
-</p>
-
 {% for post in site.posts %}
 
 <h2>
