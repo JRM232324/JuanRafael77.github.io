@@ -1,9 +1,8 @@
 ---
-
 layout: project
 title: "Contacts"
 permalink: /contacts/
----------------------
+---
 
 <p class="project-label">Contact · Cyber Security &amp; Forensic Computing</p>
 
