@@ -474,3 +474,27 @@
     margin-left: 0;
   }
 }
+
+/* =========================================
+   BLOG
+   ========================================= */
+
+.project-post-date {
+  margin: -5px 0 10px;
+
+  color: #aaa;
+
+  font-size: 10px;
+
+  letter-spacing: 0.08em;
+
+  text-transform: uppercase;
+}
+
+.project-content h2 a {
+  color: #293b95;
+}
+
+.project-content h2 a:hover {
+  color: #394dad;
+}
