@@ -3,7 +3,7 @@
 layout: project
 title: "Wazuh SIEM & Endpoint Monitoring Homelab"
 permalink: /projects/wazuh/
----------------------------
+---
 <p class="project-label">03 · SIEM · Docker · Linux · Security Monitoring</p>
 
 <h1>Wazuh SIEM &amp; Endpoint Monitoring Homelab</h1>
