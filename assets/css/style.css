@@ -201,17 +201,18 @@ footer {
 
 
 /* =========================================
-   MAIN CONTAINER
+   MAIN PAGE AREA
    ========================================= */
 
 .home-container {
   position: relative;
 
+  width: 100%;
   min-height: 100vh;
 
   box-sizing: border-box;
 
-  padding: 45px 60px;
+  padding: 50px 60px;
 }
 
 
@@ -225,10 +226,10 @@ footer {
   top: 45px;
   left: 60px;
 
+  width: auto;
   margin: 0;
   padding: 0;
 
-  width: auto;
   float: none;
 }
 
@@ -264,17 +265,15 @@ footer {
 .home-nav {
   position: absolute;
 
+  top: 180px;
   left: 60px;
-  top: 50%;
 
-  transform: translateY(-50%);
+  width: 120px;
 
   display: flex;
   flex-direction: column;
 
-  gap: 14px;
-
-  width: auto;
+  gap: 16px;
 }
 
 .home-nav a {
@@ -305,17 +304,21 @@ footer {
    ========================================= */
 
 .home-projects {
-  width: 100%;
   margin: 0;
   padding: 0;
 }
 
 .project-list {
-  width: min(720px, 60%);
 
-  margin: 0 auto;
+  /*
+   * Projects start to the right of
+   * the navigation.
+   */
 
-  padding-top: 170px;
+  width: min(720px, 65%);
+
+  margin-left: 30%;
+  padding-top: 150px;
 
   display: flex;
   flex-direction: column;
@@ -325,7 +328,7 @@ footer {
 
 
 /* =========================================
-   PROJECTS
+   PROJECT
    ========================================= */
 
 .project {
@@ -344,7 +347,7 @@ footer {
   border-top: 1px solid #e5e5e5;
   border-bottom: 1px solid #e5e5e5;
 
-  color: inherit;
+  background: transparent;
 
   text-decoration: none;
 
@@ -407,7 +410,7 @@ footer {
 
 
 /* =========================================
-   ALL PROJECTS LINK
+   VIEW ALL PROJECTS
    ========================================= */
 
 .all-projects {
@@ -432,50 +435,39 @@ footer {
 
 
 /* =========================================
-   FOOTER
-   ========================================= */
-
-.home-footer {
-  position: absolute;
-
-  bottom: 35px;
-  left: 60px;
-
-  color: #bbb;
-
-  font-size: 9px;
-
-  letter-spacing: 0.1em;
-
-  text-transform: uppercase;
-}
-
-
-/* =========================================
    TABLET
    ========================================= */
 
 @media screen and (max-width: 960px) {
 
   .home-container {
-    padding: 35px;
+    padding: 40px 35px;
   }
 
   .home-header {
-    top: 35px;
-    left: 35px;
+    position: static;
+
+    margin-bottom: 35px;
   }
 
   .home-nav {
-    left: 35px;
+    position: static;
+
+    width: auto;
+
+    margin-bottom: 45px;
+
+    flex-direction: row;
+
+    gap: 20px;
   }
 
   .project-list {
-    width: 65%;
-  }
+    width: 100%;
 
-  .home-footer {
-    left: 35px;
+    margin-left: 0;
+
+    padding-top: 0;
   }
 }
 
@@ -487,15 +479,7 @@ footer {
 @media screen and (max-width: 600px) {
 
   .home-container {
-    min-height: 100vh;
-
     padding: 30px 20px;
-  }
-
-  .home-header {
-    position: static;
-
-    margin-bottom: 35px;
   }
 
   .home-header a {
@@ -503,25 +487,15 @@ footer {
   }
 
   .home-nav {
-    position: static;
-
-    transform: none;
-
-    margin-bottom: 45px;
+    flex-direction: column;
 
     gap: 12px;
-  }
 
-  .home-projects {
-    width: 100%;
+    margin-bottom: 40px;
   }
 
   .project-list {
     width: 100%;
-
-    padding-top: 0;
-
-    gap: 8px;
   }
 
   .project {
@@ -542,11 +516,5 @@ footer {
 
   .project-content p {
     font-size: 10px;
-  }
-
-  .home-footer {
-    position: static;
-
-    margin-top: 50px;
   }
 }
