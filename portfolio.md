@@ -1,28 +1,22 @@
----
-
-layout: portfolio
-title: "Portfolio"
-permalink: /portfolio/
----
-
-<div class="portfolio-introduction">
-
-  <p class="portfolio-label">Selected Work</p>
-
-  <h1>Portfolio</h1>
-
-  <p>
-    A collection of cybersecurity, digital forensics, research,
-    and infrastructure projects.
-  </p>
-
+--- layout: 
+portfolio title: "Portfolio" 
+permalink: /portfolio/ 
+--- 
+<div class="portfolio-introduction"> 
+  
+  <p class="portfolio-label">Selected Work</p> 
+  
+  <h1>Portfolio</h1> 
+  <p> 
+    A collection of cybersecurity, digital forensics, research, and infrastructure projects. 
+  </p> 
+  
 </div>
 
-<div class="portfolio-project-list">
+<div class="portfolio-project-list"> 
 
   <article class="portfolio-project">
 
-```
 <span class="portfolio-project-number">01</span>
 
 <div class="portfolio-project-content">
@@ -43,13 +37,7 @@ permalink: /portfolio/
   </a>
 
 </div>
-```
-
-  </article>
-
-  <article class="portfolio-project">
-
-```
+</article> <article class="portfolio-project">
 <span class="portfolio-project-number">02</span>
 
 <div class="portfolio-project-content">
@@ -70,13 +58,7 @@ permalink: /portfolio/
   </a>
 
 </div>
-```
-
-  </article>
-
-  <article class="portfolio-project">
-
-```
+</article> <article class="portfolio-project">
 <span class="portfolio-project-number">03</span>
 
 <div class="portfolio-project-content">
@@ -98,13 +80,7 @@ permalink: /portfolio/
   </a>
 
 </div>
-```
-
-  </article>
-
-  <article class="portfolio-project">
-
-```
+</article> <article class="portfolio-project">
 <span class="portfolio-project-number">04</span>
 
 <div class="portfolio-project-content">
@@ -126,17 +102,4 @@ permalink: /portfolio/
   </a>
 
 </div>
-```
-
-  </article>
-
-</div>
-
-<div class="portfolio-blog-link">
-
-<span>More writing</span>
-
-<a href="{{ "/blog/" | relative_url }}">
-Read the Blog → </a>
-
-</div>
+</article> </div> <div class="portfolio-blog-link"> <span>More writing</span> <a href="{{ "/blog/" | relative_url }}"> Read the Blog → </a> </div>
