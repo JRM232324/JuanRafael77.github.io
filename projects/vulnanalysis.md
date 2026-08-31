@@ -12,7 +12,7 @@ permalink: /projects/vulnanalysis/
 
 <p> Overall, this project focused on two C programs which included heap and stack buffer overflows, format string vulnerabilities, command injection, unsafe memory allocation and unsuccessful memory deallocation. GDB decompiler was used to investigate the program and analyse these vulnerabilities and how they affected memory, stack values and pointers or vulnerable functions. </p>
 
-<h2> **Vulnerabilities Analysed:** </h2>
+<h2> Vulnerabilities Analysed: </h2>
 <ul> 
     
 <li>Heap Buffer Overflow</li>
@@ -26,7 +26,7 @@ permalink: /projects/vulnanalysis/
     
 </ul>
 
-<h2> **Skills Demonstrated:** </h2>
+<h2> Skills Demonstrated: </h2>
 <ul>
 
 <li>Vulnerability Discovery</li>
