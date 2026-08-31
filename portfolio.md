@@ -125,8 +125,6 @@ permalink: /portfolio/
 
 <div class="portfolio-blog-link">
 
-<span>More writing</span>
-
 <a href="{{ "/blog/" | relative_url }}">
 Read the Blog → </a>
 
