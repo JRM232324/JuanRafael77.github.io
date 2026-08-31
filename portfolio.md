@@ -21,7 +21,6 @@ permalink: /portfolio/
 
   <article class="portfolio-project">
 
-```
 <span class="portfolio-project-number">01</span>
 
 <div class="portfolio-project-content">
@@ -42,13 +41,11 @@ permalink: /portfolio/
   </a>
 
 </div>
-```
 
   </article>
 
   <article class="portfolio-project">
 
-```
 <span class="portfolio-project-number">02</span>
 
 <div class="portfolio-project-content">
@@ -69,13 +66,11 @@ permalink: /portfolio/
   </a>
 
 </div>
-```
 
   </article>
 
   <article class="portfolio-project">
 
-```
 <span class="portfolio-project-number">03</span>
 
 <div class="portfolio-project-content">
@@ -97,13 +92,11 @@ permalink: /portfolio/
   </a>
 
 </div>
-```
 
   </article>
 
   <article class="portfolio-project">
 
-```
 <span class="portfolio-project-number">04</span>
 
 <div class="portfolio-project-content">
@@ -125,7 +118,6 @@ permalink: /portfolio/
   </a>
 
 </div>
-```
 
   </article>
 
