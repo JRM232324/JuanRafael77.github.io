@@ -47,5 +47,3 @@ permalink: /projects/vulnanalysis/
 <a href="{{ '/assets/documents/vulnanalysis.pdf' | relative_url }}">
     View the full VDE Project
 </a>
-
----
