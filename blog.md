@@ -1,19 +1,29 @@
 ---
-layout: default
-title: Blog
+layout: project
+title: "Blog"
 permalink: /blog/
 ---
 
-# Blog
+<p class="project-label">Writing · Cyber Security &amp; Digital Forensics</p>
 
-Here are my latest updates.
+<h1>Blog</h1>
+
+<p>
+  Here are my latest updates.
+</p>
 
 {% for post in site.posts %}
 
-## [{{ post.title }}]({{ post.url | relative_url }})
+<h2>
+  <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+</h2>
 
-{{ post.date | date: "%B %d, %Y" }}
+<p class="project-post-date">
+  {{ post.date | date: "%B %d, %Y" }}
+</p>
 
-{{ post.excerpt | strip_html | truncatewords: 30 }}
+<p>
+  {{ post.excerpt | strip_html | truncatewords: 30 }}
+</p>
 
 {% endfor %}
