@@ -3,6 +3,7 @@ layout:
 portfolio title: "Portfolio" 
 permalink: /portfolio/ 
 --- 
+
 <div class="portfolio-introduction"> 
   
   <p class="portfolio-label">Selected Work</p> 
