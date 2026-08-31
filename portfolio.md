@@ -1,43 +1,51 @@
 ---
+
 layout: default
 title: "Portfolio"
 permalink: /portfolio/
+----------------------
+
+# Portfolio
+
+A collection of my cybersecurity, digital forensics, research, and infrastructure projects.
+
 ---
 
-# My Portfolio
+## 01 — Cybersecurity & Emotional Response Research
 
-A collection of my projects, experiments, and development work.
+**Final Year Project / Dissertation**
 
----
-
-## Projects
-
-### Cybersecurity & Emotional Response Research
-
-Final Year Project / Dissertation investigating how personality traits influence
-individual emotional responses to cybersecurity incidents.
+Research investigating how personality traits influence individual emotional responses to cybersecurity incidents.
 
 [View Dissertation →]({{ "/projects/dissertation/" | relative_url }})
 
-### Vulnerability Discovery & Exploitation – C Programming
+---
 
-Project focused on analysing C Files, discovering vulnerabilities and showcasing exploits to those vulnerabilities.
+## 02 — Vulnerability Discovery & Exploitation
+
+**C Programming · Vulnerability Analysis**
+
+Analysis of C programs to identify vulnerabilities and demonstrate their exploitation.
 
 [View VDE Project →]({{ "/projects/vulnanalysis/" | relative_url }})
 
-### Wazuh SIEM & Endpoint Monitoring Homelab
+---
 
-A self-hosted Wazuh SIEM environment deployed using Docker on Ubuntu Server. The project involved configuring a Wazuh Manager, Indexer and Dashboard, deploying an endpoint agent, monitoring security events and testing File Integrity Monitoring.
+## 03 — Wazuh SIEM & Endpoint Monitoring
 
-Skills: SIEM, Wazuh, Docker, Linux, Security Monitoring, FIM, Troubleshooting
+**SIEM · Docker · Linux · Security Monitoring · FIM**
+
+A self-hosted Wazuh environment deployed using Docker on Ubuntu Server, including a Wazuh Manager, Indexer, Dashboard and endpoint agent.
 
 [View Wazuh Project →]({{ "/projects/wazuh/" | relative_url }})
 
-### Enterprise Ubuntu Home Lab
+---
 
-A virtualised Ubuntu Server environment designed to simulate a small business infrastructure. The project includes Docker, Nginx, Grafana, Prometheus, Portainer, UFW and Fail2Ban.
+## 04 — Enterprise Ubuntu Home Lab
 
-Skills: Linux Administration, Virtualisation, Docker, Networking, Monitoring, Security Hardening
+**Linux Administration · Virtualisation · Docker · Networking · Monitoring · Security Hardening**
+
+A virtualised Ubuntu Server environment designed to simulate a small business infrastructure using Docker, Nginx, Grafana, Prometheus, Portainer, UFW and Fail2Ban.
 
 [View Enterprise Home Lab →]({{ "/projects/enterprise-homelab/" | relative_url }})
 
@@ -45,6 +53,6 @@ Skills: Linux Administration, Virtualisation, Docker, Networking, Monitoring, Se
 
 ## Blog
 
-Follow my progress and read about my latest work:
+Follow my progress and read about my latest work.
 
-[View Blog Posts]({{ "/blog/" | relative_url }})
+[View Blog Posts →]({{ "/blog/" | relative_url }})
