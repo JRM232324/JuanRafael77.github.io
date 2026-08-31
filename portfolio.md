@@ -1,58 +1,156 @@
 ---
-
 layout: default
 title: "Portfolio"
 permalink: /portfolio/
----
+----------------------
 
-# Portfolio
+<div class="portfolio-page">
 
-A collection of my cybersecurity, digital forensics, research, and infrastructure projects.
+  <header class="portfolio-page-header">
+    <p class="portfolio-page-label">Selected Work</p>
+    <h1>Portfolio</h1>
+    <p class="portfolio-page-intro">
+      A collection of cybersecurity, digital forensics, research,
+      and infrastructure projects.
+    </p>
+  </header>
 
----
+  <section class="portfolio-project-list">
 
-## 01 — Cybersecurity & Emotional Response Research
+```
+<article class="portfolio-project">
 
-**Final Year Project / Dissertation**
+  <div class="portfolio-project-number">
+    01
+  </div>
 
-Research investigating how personality traits influence individual emotional responses to cybersecurity incidents.
+  <div class="portfolio-project-content">
 
-[View Dissertation →]({{ "/projects/dissertation/" | relative_url }})
+    <h2>
+      Cybersecurity &amp; Emotional Response Research
+    </h2>
 
----
+    <p class="portfolio-project-type">
+      Final Year Project / Dissertation
+    </p>
 
-## 02 — Vulnerability Discovery & Exploitation
+    <p>
+      Research investigating how personality traits influence
+      individual emotional responses to cybersecurity incidents.
+    </p>
 
-**C Programming · Vulnerability Analysis**
+    <a href="{{ "/projects/dissertation/" | relative_url }}">
+      View Dissertation →
+    </a>
 
-Analysis of C programs to identify vulnerabilities and demonstrate their exploitation.
+  </div>
 
-[View VDE Project →]({{ "/projects/vulnanalysis/" | relative_url }})
+</article>
 
----
 
-## 03 — Wazuh SIEM & Endpoint Monitoring
+<article class="portfolio-project">
 
-**SIEM · Docker · Linux · Security Monitoring · FIM**
+  <div class="portfolio-project-number">
+    02
+  </div>
 
-A self-hosted Wazuh environment deployed using Docker on Ubuntu Server, including a Wazuh Manager, Indexer, Dashboard and endpoint agent.
+  <div class="portfolio-project-content">
 
-[View Wazuh Project →]({{ "/projects/wazuh/" | relative_url }})
+    <h2>
+      Vulnerability Discovery &amp; Exploitation
+    </h2>
 
----
+    <p class="portfolio-project-type">
+      C Programming / Vulnerability Analysis
+    </p>
 
-## 04 — Enterprise Ubuntu Home Lab
+    <p>
+      Analysis of C programs to identify vulnerabilities and
+      demonstrate their exploitation.
+    </p>
 
-**Linux Administration · Virtualisation · Docker · Networking · Monitoring · Security Hardening**
+    <a href="{{ "/projects/vulnanalysis/" | relative_url }}">
+      View VDE Project →
+    </a>
 
-A virtualised Ubuntu Server environment designed to simulate a small business infrastructure using Docker, Nginx, Grafana, Prometheus, Portainer, UFW and Fail2Ban.
+  </div>
 
-[View Enterprise Home Lab →]({{ "/projects/enterprise-homelab/" | relative_url }})
+</article>
 
----
 
-## Blog
+<article class="portfolio-project">
 
-Follow my progress and read about my latest work.
+  <div class="portfolio-project-number">
+    03
+  </div>
 
-[View Blog Posts →]({{ "/blog/" | relative_url }})
+  <div class="portfolio-project-content">
+
+    <h2>
+      Wazuh SIEM &amp; Endpoint Monitoring
+    </h2>
+
+    <p class="portfolio-project-type">
+      SIEM / Docker / Linux / Security Monitoring
+    </p>
+
+    <p>
+      A self-hosted Wazuh environment deployed using Docker
+      on Ubuntu Server, including a Wazuh Manager, Indexer,
+      Dashboard and endpoint agent.
+    </p>
+
+    <a href="{{ "/projects/wazuh/" | relative_url }}">
+      View Wazuh Project →
+    </a>
+
+  </div>
+
+</article>
+
+
+<article class="portfolio-project">
+
+  <div class="portfolio-project-number">
+    04
+  </div>
+
+  <div class="portfolio-project-content">
+
+    <h2>
+      Enterprise Ubuntu Home Lab
+    </h2>
+
+    <p class="portfolio-project-type">
+      Linux / Docker / Networking / Security Hardening
+    </p>
+
+    <p>
+      A virtualised Ubuntu Server environment designed to
+      simulate a small business infrastructure using Docker,
+      Nginx, Grafana, Prometheus, Portainer, UFW and Fail2Ban.
+    </p>
+
+    <a href="{{ "/projects/enterprise-homelab/" | relative_url }}">
+      View Enterprise Home Lab →
+    </a>
+
+  </div>
+
+</article>
+```
+
+  </section>
+
+  <div class="portfolio-blog-link">
+    <span>More writing</span>
+
+```
+<a href="{{ "/blog/" | relative_url }}">
+  Read the Blog →
+</a>
+```
+
+  </div>
+
+</div>
