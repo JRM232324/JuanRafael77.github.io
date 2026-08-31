@@ -1,11 +1,18 @@
 ---
-layout: default
-title: Contacts
-permalink: /contacts/ 
----
 
-# Contacts
+layout: project
+title: "Contacts"
+permalink: /contacts/
+---------------------
 
-**E-Mail:** rafael.moreno.cardoso@gmail.com 
+<p class="project-label">Contact · Cyber Security &amp; Forensic Computing</p>
 
-**LinkedIn:** https://www.linkedin.com/in/juan-rafael-moreno-67a892316/
+<h1>Contacts</h1>
+
+<p>
+  <strong>E-Mail:</strong> rafael.moreno.cardoso@gmail.com
+</p>
+
+<p>
+  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/juan-rafael-moreno-67a892316/">https://www.linkedin.com/in/juan-rafael-moreno-67a892316/</a>
+</p>
