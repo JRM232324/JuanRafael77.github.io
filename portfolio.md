@@ -1,9 +1,8 @@
 ---
-
 layout: portfolio
 title: "Portfolio"
 permalink: /portfolio/
-----------------------
+---
 
 <div class="portfolio-introduction">
 
