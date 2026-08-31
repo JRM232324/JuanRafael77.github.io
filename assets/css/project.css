@@ -126,6 +126,8 @@
 
   padding-top: 80px;
 
+  padding-bottom: 80px;
+
   float: none;
 }
 
@@ -321,11 +323,14 @@
    ========================================= */
 
 .project-footer {
+  position: static;
+
   width: min(800px, 65%);
 
   margin-left: 28%;
 
   padding-top: 25px;
+  padding-bottom: 50px;
 
   border-top: 1px solid #e5e5e5;
 }
