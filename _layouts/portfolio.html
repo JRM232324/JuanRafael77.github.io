@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {% seo %}
+
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/portfolio.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
+  {% include head-custom.html %}
+</head>
+
+<body class="portfolio-page-body">
+
+  <div class="portfolio-layout">
+
+    <!-- Site identity -->
+
+    <header class="portfolio-header">
+
+      <a href="{{ "/" | relative_url }}" class="portfolio-name">
+        Juan Rafael Moreno
+      </a>
+
+      <p>
+        Cyber Security &amp; Digital Forensics
+      </p>
+
+    </header>
+
+
+    <!-- Navigation -->
+
+    <nav class="portfolio-nav">
+
+      <a href="{{ "/about/" | relative_url }}">
+        About
+      </a>
+
+      <a href="{{ "/blog/" | relative_url }}">
+        Blog
+      </a>
+
+      <a href="{{ "/contacts/" | relative_url }}">
+        Contact
+      </a>
+
+    </nav>
+
+
+    <!-- Main portfolio content -->
+
+    <main class="portfolio-content">
+
+      {{ content }}
+
+    </main>
+
+
+    <!-- Small footer -->
+
+    <footer class="portfolio-footer">
+
+      <span>
+        Cyber Security · Digital Forensics
+      </span>
+
+    </footer>
+
+  </div>
+
+</body>
+</html>
