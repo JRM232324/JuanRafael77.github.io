@@ -10,10 +10,6 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
-  <!--[if lt IE 9]>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-  <![endif]-->
-
   {% include head-custom.html %}
 </head>
 
@@ -22,41 +18,26 @@
   <div class="home-container">
 
     <header class="home-header">
-      <a href="{{ "/" | relative_url }}">
-        Juan Rafael Moreno
-      </a>
-
+      <a href="{{ "/" | relative_url }}">Juan Rafael Moreno</a>
       <p>Cyber Security &amp; Digital Forensics</p>
     </header>
 
 
     <nav class="home-nav">
 
-      <a href="{{ "/about/" | relative_url }}">
-        About
-      </a>
+      <a href="{{ "/about/" | relative_url }}">About</a>
 
-      <a href="{{ "/blog/" | relative_url }}">
-        Blog
-      </a>
+      <a href="{{ "/blog/" | relative_url }}">Blog</a>
 
-      <a href="{{ "/contacts/" | relative_url }}">
-        Contact
-      </a>
+      <a href="{{ "/contacts/" | relative_url }}">Contact</a>
 
     </nav>
 
 
     <main class="home-projects">
-
       {{ content }}
-
     </main>
 
-
-    <footer class="home-footer">
-      <span>Cyber Security · Digital Forensics</span>
-    </footer>
 
   </div>
 
