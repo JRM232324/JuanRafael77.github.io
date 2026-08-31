@@ -1,9 +1,8 @@
 ---
-
 layout: project
 title: "Cybersecurity & Human Factors Research"
 permalink: /projects/dissertation/
-----------------------------------
+---
 
 <p class="project-label">01 · Final Year Project · Cybersecurity and Forensic Computing</p>
 
