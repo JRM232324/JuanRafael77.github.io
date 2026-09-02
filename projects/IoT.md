@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "IoT Security Project"
+title: "IoT Smart Room Environment Monitor"
 permalink: /projects/IoT/
 ---
 
@@ -9,7 +9,7 @@ permalink: /projects/IoT/
 <h1>IoT Security Project</h1>
 
 <p>
-  This project focused on the security of Internet of Things (IoT) devices and the potential risks associated with connecting these devices to a network. The project explored how IoT devices can introduce security vulnerabilities through weak authentication, insecure communications, poor configuration and outdated software.
+  This project focused on Internet of Things (IoT) devices and the potential risks associated with connecting these devices to a network. The project explored how IoT devices can introduce security vulnerabilities through weak authentication, insecure communications, poor configuration and outdated software.
 </p>
 
 <p>
