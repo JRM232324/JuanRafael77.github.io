@@ -121,6 +121,32 @@ permalink: /portfolio/
 
   </article>
 
+  <article class="portfolio-project">
+
+<span class="portfolio-project-number">05</span>
+
+<div class="portfolio-project-content">
+
+  <h2>IoT Smart Room Environment Monitor</h2>
+
+  <p class="portfolio-project-type">
+    Linux · Docker · Networking · Security Hardening
+  </p>
+
+  <p>
+    A virtualised Ubuntu Server environment designed to
+    simulate a small business infrastructure using Docker,
+    Nginx, Grafana, Prometheus, Portainer, UFW and Fail2Ban.
+  </p>
+
+  <a href="{{ "/projects/IoT/" | relative_url }}">
+    View Enterprise Home Lab →
+  </a>
+
+</div>
+
+  </article>
+
 </div>
 
 <div class="portfolio-blog-link">
