@@ -140,7 +140,7 @@ permalink: /portfolio/
   </p>
 
   <a href="{{ "/projects/IoT/" | relative_url }}">
-    View Enterprise Home Lab →
+    View Full IoT Project →
   </a>
 
 </div>
